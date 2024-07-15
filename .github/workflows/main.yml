@@ -8,4 +8,4 @@ jobs:
         run: |
          echo "Hello World!"
          echo "welcome to github actions"
-        
+         echo "::debug::Set the Octocat variable"
